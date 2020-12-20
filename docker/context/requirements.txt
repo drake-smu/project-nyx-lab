@@ -1,0 +1,6 @@
+pyspark
+flask
+pandas
+sqlalchemy
+matplotlib
+numpy
